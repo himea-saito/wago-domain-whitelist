@@ -1,0 +1,5 @@
+@@|https://cdn.intergient.com/*^$important
+@@|https://config.playwire.com/1024383/v2/websites/73345/banner.json^$important
+@@|https://z.moatads.com/*^$important
+@@|https://cdn.intergient.com/pageos/js/libs/aws-sdk-kinesis.min.js^$important
+@@|https://config.playwire.com/audience_segements/config.json^$important
